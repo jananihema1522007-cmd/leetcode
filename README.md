@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1572-matrix-diagonal-sum](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
