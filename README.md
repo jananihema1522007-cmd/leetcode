@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
