@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jananihema1522007-cmd/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jananihema1522007-cmd/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
